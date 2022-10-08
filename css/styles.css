@@ -2174,7 +2174,7 @@ a:hover.back-to-top {
 	position:relative;
 	left: 0;
 	top: 0;
-    width: 98%;
+    width: 97%;
     height: 100vh;
     margin-left: 1%;
 
@@ -2290,7 +2290,7 @@ a:hover.back-to-top {
     padding: 20px;
 }
 .schedule{
-	width: 98%;
+	width: 97%;
 	height: 0;
 	background-color: blue;
 }
