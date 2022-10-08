@@ -2174,9 +2174,10 @@ a:hover.back-to-top {
 	position:relative;
 	left: 0;
 	top: 0;
-    width: 100%;
+    width: 98%;
     height: 100vh;
-    margin: 0;
+    margin-left: 1%;
+
 }
 
 .top1{
@@ -2285,13 +2286,11 @@ a:hover.back-to-top {
 .home{    
     position: relative;
     display: block;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
+    top: 0%;
     padding: 20px;
 }
 .schedule{
-	width: 100%;
+	width: 98%;
 	height: 0;
 	background-color: blue;
 }
